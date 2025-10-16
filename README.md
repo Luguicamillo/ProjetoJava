@@ -24,3 +24,4 @@ PEDIDO:
   - Valor total
 
 ## M.E.R.
+[erdplus.pdf](https://github.com/user-attachments/files/22957896/erdplus.pdf)
