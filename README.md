@@ -40,4 +40,5 @@ https://youtu.be/tkUO4lH7YgE
 ## Diagrama de classes
 [Diagrama de classes.pdf](https://github.com/user-attachments/files/23512496/Diagrama.de.classes.pdf)
 
-
+## Documentação do projeto
+[PROJETO FEIFOOD EM JAVA.pdf](https://github.com/user-attachments/files/23536304/PROJETO.FEIFOOD.EM.JAVA.pdf)
