@@ -6,25 +6,38 @@ FEIFood
 
 ## Atributos
 USUÁRIO:
-  - ID
-  - Nome
-  - Usuario
-  - Senha
+  - id_usuario
+  - nome
+  - usuario
+  - senha
 
 ALIMENTO:
-  - ID
-  - Nome
-  - Descrição
-  - Preço
+  - id_alimento
+  - nome_alimento
+  - descricao
+  - preco
 
 PEDIDO:
-  - ID
-  - Usuario
-  - Lista alimento
-  - Valor total
+  - id_pedido
+  - valor_total
+  - id_usuario
+  - avasliacao
+
+PEIDDO_ALIMENTO
+  - id_pedido
+  - id_alimento
+  - quantidade
 
 ## M.E.R.
 [erdplus.pdf](https://github.com/user-attachments/files/22957896/erdplus.pdf)
 
 ## Código atualizado :)
 [ProjetoJava.zip](https://github.com/user-attachments/files/23489876/ProjetoJava.zip)
+
+## Video no Youtube
+https://youtu.be/tkUO4lH7YgE
+
+## Diagrama de classes
+[Diagrama de classes.pdf](https://github.com/user-attachments/files/23512496/Diagrama.de.classes.pdf)
+
+
